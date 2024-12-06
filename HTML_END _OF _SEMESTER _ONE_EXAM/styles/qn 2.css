@@ -1,0 +1,34 @@
+
+.nav a :hover {
+    color: chartreuse;
+    }
+    
+    .nav {
+        padding: 20px;
+        text-decoration: none;
+        background-color: white;
+        color: black;
+        display: block;
+    
+    }
+    .nav ul{
+        text-align: center;
+    }
+    .nav   a {
+        text-decoration: none;
+        padding: 30px;
+        display: block;
+        float:left;
+        text-align: center;
+        background-color: navajowhite;
+        color: rgb(6, 5, 5);
+        margin: 0px;
+        margin-left: 10PX;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        -ms-flex-item-align: stretch;
+    }
+    a{
+        padding-inline: 70px;
+    }
+    
