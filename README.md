@@ -4,23 +4,23 @@
 #### Sudent's id  24401146
 ####  OBJECTIVE MULTIPLE CHOICE QUESTIONS
 ####   QUESTIONS
-### QN:1.
-### QN:2.
-### QN:3.
-### QN:4.
-### QN:5.
-### QN:6.
-### QN:7.
-### QN:8.
-### QN:9.
-### QN:10.
-### QN:11.
-### QN:12.
-### QN:13.
-### QN:14.
-### QN:15.
-### QN:16.
-### QN:17.
-### QN:18.
-### QN:19.
-### QN:20.
+### QN:1.  A
+### QN:2.  D
+### QN:3.  B 
+### QN:4.  C
+### QN:5.  A
+### QN:6.  B
+### QN:7.  C
+### QN:8.  B
+### QN:9.  C                                                                                                                                                                                                                                                                                                                                                  C
+### QN:10.  C
+### QN:11.   B
+### QN:12.   C
+### QN:13.   C
+### QN:14.  B
+### QN:15.  C
+### QN:16.   D
+### QN:17.  C
+### QN:18.  B
+### QN:19.   D
+### QN:20.   A
